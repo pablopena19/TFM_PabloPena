@@ -1,0 +1,16 @@
+gene,cdna,protein
+BRCA1,c.5266dupC,p.Gln1756ProfsTer74
+BRCA2,c.6174delT,p.Ser2058ArgfsTer21
+TP53,c.748C>T,p.Arg250Trp
+CFTR,c.1521_1523delCTT,p.Phe508del
+APC,c.3927_3931delAAAGA,p.Glu1309AspfsTer4
+LDLR,c.1060+1G>A,
+BRCA1,c.68_69delAG,p.Glu23ValfsTer17
+MSH2,c.1906G>C,p.Ala636Pro
+BRCA2,c.5946delT,p.Ser1982ArgfsTer22
+RET,c.1900T>C,p.Cys634Arg
+NF1,c.2041C>T,p.Arg681Ter
+BRCA1,c.3607C>T,p.Arg1203Ter
+MEN1,c.1546delC,p.Leu516TrpfsTer22
+PTEN,c.697C>T,p.Arg233Ter
+TP53,c.817C>T,p.Arg273Cys
